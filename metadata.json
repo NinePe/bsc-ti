@@ -1,0 +1,5 @@
+{
+  "name": "BSC Simulator & Causal Model",
+  "description": "A Balanced Scorecard simulation dashboard allowing users to analyze KPI impacts based on causal influence matrices and defined scenarios.",
+  "requestFramePermissions": []
+}
